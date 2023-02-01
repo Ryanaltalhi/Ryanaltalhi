@@ -2,12 +2,12 @@
 <h3 align="center">Senior #Cs Student At TAIF University</h3>
 
 
-<div align="center">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanaltalhi&label=Profile%20views&color=0e75b6&style=flat" alt="ryanaltalhi" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/i_pf0" target="blank"><img src="https://img.shields.io/twitter/follow/i_pf0?logo=twitter&style=for-the-badge" alt="i_pf0" /></a> </p>
+<p align="center"> <a href="https://twitter.com/i_pf0" target="blank"><img src="https://img.shields.io/twitter/follow/i_pf0?logo=twitter&style=for-the-badge" alt="i_pf0" /></a> </p>
 
 - 📫 How to reach **rayanruddahaltalhi@gmail.com**
 
