@@ -1,5 +1,5 @@
-![Hey there, I'm Rayan. I'm a Senior Computer Science, ](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
-
+<h1 align="center">Hi 👋, I'm Rayan</h1>
+<h3 align="center">Senior #Cs Student At TAIF University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanaltalhi&label=Profile%20views&color=0e75b6&style=flat" alt="ryanaltalhi" /> </p>
 
@@ -22,5 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanaltalhi&show_icons=true&locale=en" alt="ryanaltalhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanaltalhi&" alt="ryanaltalhi" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanaltalhi" alt="ryanaltalhi" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanaltalhi" alt="ryanaltalhi" /></a> </p>
