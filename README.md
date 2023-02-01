@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rayan</h1>
 <h3 align="center">Senior #Cs Student At TAIF University</h3>
 
+
+<div align="center">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanaltalhi&label=Profile%20views&color=0e75b6&style=flat" alt="ryanaltalhi" /> </p>
 
 
