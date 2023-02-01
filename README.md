@@ -2,7 +2,6 @@
 <h3 align="center">Senior #Cs Student At TAIF University</h3>
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=techmakers96&label=Profile%20views&color=0e75b6&style=flat](https://pbs.twimg.com/profile_banners/4925165943/1671912030/1500x500)" alt="Ryanaltalhi" /> </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryanaltalhi&label=Profile%20views&color=0e75b6&style=flat" alt="ryanaltalhi" /> </p>
