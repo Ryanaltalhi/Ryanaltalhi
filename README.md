@@ -1,3 +1,6 @@
+
+
+<center>
 <h1 align="center">Hi 👋, I'm Rayan</h1>
 <h3 align="center">Senior #Cs Student At TAIF University</h3>
 
